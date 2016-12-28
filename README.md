@@ -1,1 +1,1 @@
-# gsg-thumbnails
+# gsg-thumbnail
